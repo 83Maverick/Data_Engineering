@@ -28,3 +28,8 @@ Data_Engineering/
 └── docs/
     ├── learning_notes.md
     └── project_documentation.md
+
+Tools:
+      SNOWFLAKE
+      INFORMATICA INTELLIGENCE CLOUD SERVICES
+      SALESFORCE DOT COM
