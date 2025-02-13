@@ -1,4 +1,4 @@
-
+******
 Snowflake SQL Exercises
 This repository contains a series of SQL exercises and labs for learning Snowflake. These exercises will guide you through different features and concepts in Snowflake, such as querying, visualizations, transactions, functions, stored procedures, user management, and working with semi-structured data.
 
